@@ -19,5 +19,5 @@ div=a/b;
 //division //
 alert("div is" +div);
 
-             
+//confirm("add is"+add+   "sub is"+sub+   "mul is" +mul+   "div is" +div);              
 
